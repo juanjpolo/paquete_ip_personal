@@ -1,0 +1,17 @@
+name: ip_geolocation_api_jp
+description: A new Flutter package project.
+version: 0.0.1
+autor: Juan Polo
+homepage: https://dina.ec
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  http:
+  meta:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
